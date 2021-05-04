@@ -11,6 +11,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Camdroid"
         tools:ignore="AllowBackup">
+        <activity android:name=".EditImageActivity"/>
         <activity
             android:name=".MainActivity"
             android:theme="@style/FullScreen">
