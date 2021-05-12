@@ -12,7 +12,8 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Camdroid"
         tools:ignore="AllowBackup">
-        <activity android:name=".activities.filteredImage.FilteredImageActivity"/>
+        <activity android:name=".activities.savedImages.SavedImagesActivity"/>
+        <activity android:name=".activities.filteredImage.FilteredImageActivity" />
         <activity android:name=".activities.editimage.EditImageActivity" />
         <activity
             android:name=".activities.main.MainActivity"
