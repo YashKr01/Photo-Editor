@@ -1,9 +1,10 @@
-package com.example.camdroid
+package com.example.camdroid.activities.main
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.provider.MediaStore
+import com.example.camdroid.activities.editimage.EditImageActivity
 import com.example.camdroid.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
@@ -21,7 +22,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         setListeners()
-
     }
 
     private fun setListeners() {
