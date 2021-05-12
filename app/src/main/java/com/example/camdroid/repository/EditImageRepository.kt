@@ -7,4 +7,5 @@ import com.example.camdroid.data.ImageFilter
 interface EditImageRepository {
     suspend fun prepareImagePreview(imageUriUri: Uri): Bitmap?
     suspend fun getImageFilters(image: Bitmap): List<ImageFilter>
+    suspend fun saveFilteredImage(filteredBitmap: Bitmap): Uri?
 }
