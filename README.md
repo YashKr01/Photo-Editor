@@ -5,6 +5,12 @@
 - Language Used - Kotlin (v1.4.32)  
 - IDE used - Android Studio (v4.1.2)  
 
+# Screenshots
+
+ | Editing Screen | Saved Images | Share Image |
+ --------------|------------|-------------|
+ | ![Home Screen](Images/img1.jpg) | ![Top News](Images/img2.jpg)  | ![Search News](Images/img3.jpg) |
+
 # Dependencies
 
 - [ViewModel](https://developer.android.com/jetpack/androidx/releases/lifecycle)
