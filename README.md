@@ -9,7 +9,7 @@
 
  | Editing Screen | Saved Images | Share Image |
  --------------|------------|-------------|
- | ![Home Screen](Images/img1.jpg) | ![Top News](Images/img2.jpg)  | ![Search News](Images/img3.jpg) |
+ | ![](Images/img1.jpg) | ![](Images/img2.jpg)  | ![](Images/img3.jpg) |
 
 # Dependencies
 
